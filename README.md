@@ -33,7 +33,5 @@ The notebooks read `data/dataset_prog.csv`, a semicolon-delimited CSV file conta
 The visualizations describe associations, not causal relationships. The classifier predicts a dataset-defined flag and must not be interpreted as a clinical diagnosis. Accuracy alone is insufficient to evaluate the detection of high-risk cases; review precision, recall and the confusion matrix. Performance estimates can vary when the data or modeling choices change.
 
 ## Authors
-- [Student 1 — add name and GitHub profile]
-- [Student 2 — add name and GitHub profile]
-
-*Academic project. Confirm dataset redistribution permission and add the source and attribution before publishing.*
+- [Student 1 — Eduarda Correia, eduarda956]
+- [Student 2 — Joana Gomes, joanadsgomes]
