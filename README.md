@@ -21,7 +21,7 @@ The original analysis and its written interpretations were preserved across the 
 Python, Jupyter Notebook, pandas, Matplotlib, Seaborn, scikit-learn.
 
 ## Data
-The notebooks read `data/dataset_prog.csv`, a semicolon-delimited CSV file containing 3,500 records and 24 variables. The dataset is included for local preparation, but **confirm that its licence permits public redistribution before uploading it to a public GitHub repository**. Add the original dataset source, licence and attribution here. If redistribution is not permitted, omit the CSV from the public repository and provide instructions for obtaining it from its official source.
+The notebooks read `data/dataset_prog.csv`, a semicolon-delimited CSV file containing 3,500 records and 24 variables. The dataset is included for local preparation. Add the original dataset source, licence and attribution here. If redistribution is not permitted, omit the CSV from the public repository and provide instructions for obtaining it from its official source.
 
 ## Run locally
 1. Download or clone this repository.
